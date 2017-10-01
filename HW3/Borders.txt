@@ -1,0 +1,17 @@
+Germany Austria Belgium Czechia Denmark France Luxembourg Netherlands Poland Switzerland_
+
+France Andorra Belgium Germany Italy Luxembourg Monaco Spain Switzerland_
+
+Netherlands Belgium Germany_
+
+Belgium France Germany Luxembourg Netherlands_
+
+Luxembourg Belgium France Germany_
+
+Poland Belarus Czechia Germany Lithuania Russia Slovakia Ukraine_
+
+Czechia Austria Germany Poland Slovakia_
+
+Austria Czechia Germany Hungary Italy Liechtenstein Slovakia Slovenia Switzerland_
+
+Switzerland Austria France Italy Liechtenstein Germany_
